@@ -200,3 +200,19 @@ text-align:center;
 padding:20px;
 background:#020617;
 }
+.social-icons{
+margin-top:10px;
+}
+
+.social-icons a{
+color:white;
+font-size:24px;
+margin:0 10px;
+text-decoration:none;
+transition:0.3s;
+}
+
+.social-icons a:hover{
+color:#00adb5;
+transform:scale(1.2);
+}
