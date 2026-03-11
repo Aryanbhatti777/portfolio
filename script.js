@@ -21,3 +21,13 @@ behavior: "smooth"
 });
 
 });
+
+// Prevent scroll restoration on page refresh
+if ('scrollRestoration' in history) {
+    history.scrollRestoration = 'manual';
+}
+
+// Scroll to top on page load
+window.addEventListener('load', () => {
+    window.scrollTo(0, 0);
+});

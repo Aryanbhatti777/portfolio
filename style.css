@@ -62,12 +62,13 @@ nav a:hover{
 display:flex;
 align-items:center;
 justify-content:space-between;
-gap:30px;
+/* gap:30px; */
 flex-wrap:wrap;
 }
 
 .hero-text{
 flex:1;
+max-width: 900px;
 }
 
 .hero-image{
