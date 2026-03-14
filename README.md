@@ -51,6 +51,20 @@ cd portfolio
 Open the project:
 Simply open index.html in your favorite browser.
 
+## Website Preview
+
+### Home Page
+![Home Page](screenshots/Screenshot%202026-03-12%20130907.png)
+
+### About Section
+![About](screenshots/Screenshot%202026-03-12%20130920.png)
+
+### Projects Section
+![Projects](screenshots/Screenshot%202026-03-12%20130931.png)
+
+### Contact Section
+![Contact](screenshots/Screenshot%202026-03-12%20130947.png)
+
 📧 Contact Me
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions.
 
